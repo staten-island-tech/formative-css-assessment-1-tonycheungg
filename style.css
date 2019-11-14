@@ -13,7 +13,11 @@ div{
         rgba(255, 136, 0, 0.5)
     ),
     url(media/IMG_0153.JPG);
-    height: 100vh;
+    height: 500vh;
+    font-family: 'Yeon Sung', cursive;
+    letter-spacing: 4px;
+    line-height: 2;
+    font-weight: 900;
 }
 ul{
     list-style: none;
